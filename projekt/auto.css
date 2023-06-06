@@ -28,10 +28,13 @@
 }
 
 .kep{
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
+<<<<<<< HEAD
 body{
   background-color: darkgrey;
 }
+=======
+>>>>>>> 46380f8cb6958c815267f82f3d8b0c9ffb92b3b8
