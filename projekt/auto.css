@@ -16,7 +16,7 @@
       
 .tipus {
     font-size: 1.2rem;
-    color:brown;
+    color:black;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -24,7 +24,7 @@
 .ar {
     font-size: 1.6rem;
     text-align: right;
-    color:green;
+    color:darkslategrey;
 }
 
 .kep{
